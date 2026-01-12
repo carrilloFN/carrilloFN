@@ -1,5 +1,5 @@
 # Materia 
--- [![My Skills](https://skillicons.dev/icons?i=vscode,git,haskell,java)](https://skillicons.dev)
+<!--[![My Skills](https://skillicons.dev/icons?i=vscode,git,haskell,java)](https://skillicons.dev)-->
 
 ## 🔹 Temática
 
