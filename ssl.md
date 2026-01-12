@@ -1,11 +1,7 @@
-# Materia 
-<!--[![My Skills](https://skillicons.dev/icons?i=vscode,git,haskell,java)](https://skillicons.dev)-->
+# Sintaxis y Semántica de los Lenguajes 
+[![My Skills](https://skillicons.dev/icons?i=vscode,c)](https://skillicons.dev)
 
-## 🔹 Temática
+## 🔹 Trabajos Prácticos
 
->[!Note]
-> Los siguientes repositorios están ordenados alfabéticamente por el nombre, mas no por el orden en que fueron creados
-
-### Tematica 1
-
-- repositorio [Link](https://github.com/carrilloFN/repositorio)
+- Automatas y Cadenas [Link](https://github.com/carrilloFN/SSL)
+- Parser [Link](https://github.com/carrilloFN/ssl-flex-bison)
