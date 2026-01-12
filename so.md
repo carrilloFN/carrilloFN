@@ -1,11 +1,11 @@
-# Materia 
-<!--[![My Skills](https://skillicons.dev/icons?i=vscode,git,haskell,java)](https://skillicons.dev)-->
+# Sistemas Operativos 
+[![My Skills](https://skillicons.dev/icons?i=c,debian,linux,ubuntu,bash)](https://skillicons.dev)
 
-## 🔹 Temática
+## 🔹 Trabajos Prácticos
 
->[!Note]
-> Los siguientes repositorios están ordenados alfabéticamente por el nombre, mas no por el orden en que fueron creados
+- 2021 - EclipSO [Link](https://github.com/carrilloFN/EclipSo)
+- 2022 - ChamacOS [Link](https://github.com/carrilloFN/ChamacOS)
 
-### Tematica 1
+## 🔹 Experimentos/Pruebas
 
-- repositorio [Link](https://github.com/carrilloFN/repositorio)
+- Memory Leaks [Link](https://github.com/carrilloFN/so_memory_leaks_valgrind)
